@@ -1,0 +1,8 @@
+{
+	"path-intellisense.mappings": {
+		"/": "${workspaceFolder}",
+		"@img": "${workspaceFolder}/src/img",
+		"@scss": "${workspaceFolder}/src/scss",
+		"@js": "${workspaceFolder}/src/js"
+	}
+}
